@@ -100,8 +100,8 @@ If you need to compile the indicator:
 
 ### Control Buttons
 - **Clear**: Remove all current order settings
-- **M|ZONE/M|CANDLE**: Switch between zone-based and candle-based order placement
-- **D|UP/D|DOWN**: Set trade direction (candle mode only)
+- **MZONE/MCANDLE**: Switch between zone-based and candle-based order placement
+- **DUP/DDOWN**: Set trade direction (candle mode only)
 - **LOCKED/UNLOCKED**: Lock or unlock position modifications
 - **CSV**: Export market data to CSV file
 

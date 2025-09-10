@@ -238,8 +238,7 @@ Enable debug mode to see additional information:
 This indicator is provided for educational and analysis purposes. Trading involves substantial risk of loss and is not suitable for all investors. Past performance is not indicative of future results. Always conduct your own research and consider your risk tolerance before trading.
 
 ## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Copyright © 2025 LesleyJJ. All rights reserved.
 
 ---
 

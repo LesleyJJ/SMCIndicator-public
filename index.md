@@ -4,6 +4,10 @@
 
 The Smart Money Concept (SMC) Indicator is an advanced MetaTrader 5 (MT5) indicator that automates the identification and marking of key market structure elements based on the Smart Money Concept trading methodology. This indicator eliminates the time-consuming manual process of marking high/low points, detecting trends, zones, and order blocks, providing traders with automated analysis tools for better market understanding.
 
+![SMC Indicator Screenshot 1](image_1.png)
+
+![SMC Indicator Screenshot 2](image_2.png)
+
 ## Features
 
 ### Core Functionality
